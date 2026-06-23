@@ -1,5 +1,7 @@
 # News Digest Bot
 
+Bot que ayuda a recibir noticias de nuevas tecnologías, papers o proyectos tecnológicos.
+
 A scheduled bot that scrapes RSS feeds (Hacker News, arXiv, GitHub Trending, security/fintech blogs),
 filters articles by keyword, and sends a formatted digest to Telegram every 48 hours via GitHub Actions.
 
